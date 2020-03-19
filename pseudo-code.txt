@@ -1,7 +1,7 @@
 1.Create Global variables
     -Array (words to guess)
     - Number of guesses
-    -Wins/Losses
+    -Wins
     -Guessed Letters
     -Player Input
     -Word currently being Guessed
